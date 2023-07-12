@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://marvinsoriano.com" target="blank">
+    <img src="https://marvinsoriano.com/images/marvinsg-logo.png" alt="marvinsg-logo" height="400" width="400"/>
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Marvin 😄</h1>
 <h3 align="center">A passionate software engineer from Barcelona</h3>
 
