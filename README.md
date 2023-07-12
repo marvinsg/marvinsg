@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://marvinsoriano.com" target="blank">
-    <img src="https://marvinsoriano.com/images/marvinsg-logo.png" alt="marvinsg-logo" height="400" width="400"/>
+    <img src="https://marvinsoriano.com/images/marvinsg-logo.png" alt="marvinsg-logo" height="auto" width="370"/>
   </a>
 </p>
 
